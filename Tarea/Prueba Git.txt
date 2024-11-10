@@ -1,1 +1,7 @@
 Hola Mundo
+
+Integrantes del Proyecto GIT
+
+	Guzmán Arispe, Wilson Walter	U23212293
+	Palacios Torres Max Tony Enzo	U22242484
+	Daniel Andrés Chonate gamero	U22235229
